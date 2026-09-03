@@ -684,7 +684,7 @@ By completing Day 1, the following concepts should be understood:
 - Other practice programs: 
 
 ---
-
+```
 # Day 1 Completion Checklist
 
 - [x] Print statement
