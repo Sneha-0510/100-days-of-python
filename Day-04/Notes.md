@@ -6,19 +6,20 @@ First: Import the module
 Before using random, you need to import it.
 // import random
 
-# types
+## types
 
-1. random.random() :
+### **1. random.random() :**
 
--This generates a random decimal number between 0 and 1  i.e;  
--0 ≤ number < 1   (number includes 0 but not 1)
--also no input taken from users as the lower bound and upper bound is fixed.
-// can be used to generate random probability 
+- `This generates a random decimal number between 0 and 1  i.e;`  
+- `0 ≤ number < 1   (number includes 0 but not 1)`
+- `also no input taken from users as the lower bound and upper bound is fixed.`
+- `can be used to generate random probability `
 
-<example>
+```<example>
 import random
 x = random.random()
 print(x)
+```
 
 <Sample Output>
 0.5837291
