@@ -1,22 +1,5 @@
-# ============================================================
-# Day 1 — Python Fundamentals
-# 100 Days of Python
-# ============================================================
-
-# Topics:
-# - Print Statement
-# - Strings
-# - String Manipulation
-# - Input
-# - Variables
-# - Data Types
-# - Type Conversion
-# - Arithmetic Operators
-
-
-# ============================================================
 # Exercise 1 — Personal Information
-# ============================================================
+
 
 name = "Sneha"
 age = 19
@@ -29,18 +12,18 @@ print("Branch:", branch)
 print("College:", college)
 
 
-# ============================================================
+
 # Exercise 2 — Greeting Program
-# ============================================================
+
 
 name = input("What is your name? ")
 
 print("Hello " + name + "!")
 
 
-# ============================================================
+
 # Exercise 3 — Age Calculator
-# ============================================================
+
 
 age = int(input("Enter your age: "))
 
@@ -49,9 +32,9 @@ next_year_age = age + 1
 print("Next year you will be", next_year_age, "years old.")
 
 
-# ============================================================
+
 # Exercise 4 — String Length
-# ============================================================
+
 
 name = input("Enter your name: ")
 
@@ -60,9 +43,9 @@ name_length = len(name)
 print("Your name has", name_length, "characters.")
 
 
-# ============================================================
+
 # Exercise 5 — Simple Calculator
-# ============================================================
+
 
 first_number = float(input("Enter the first number: "))
 second_number = float(input("Enter the second number: "))
@@ -83,9 +66,8 @@ else:
     print("Division: Cannot divide by zero.")
 
 
-# ============================================================
 # Exercise 6 — Data Types
-# ============================================================
+
 
 student_name = "Sneha"
 student_age = 19
@@ -99,9 +81,9 @@ print("student_height:", type(student_height))
 print("is_student:", type(is_student))
 
 
-# ============================================================
+
 # Exercise 7 — Type Conversion
-# ============================================================
+
 
 number_as_string = "25"
 
@@ -114,9 +96,9 @@ print("Original type:", type(number_as_string))
 print("Converted type:", type(number_as_integer))
 
 
-# ============================================================
+
 # Mini Project — Student Introduction Generator
-# ============================================================
+
 
 print("\n===== Student Introduction Generator =====")
 
