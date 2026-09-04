@@ -4,12 +4,14 @@ Loops allow us to create a rule and the computer can follow it to do a repeated 
 
 ### Syntax
 
-```for <variable name of each item> in <a List>:
+```
+for <variable name of each item> in <a List>:
     <do something>
     <do something else> 
 ```
 
-``` example :
+```
+ example :
 fruits = ["apple" , "mango , "banana"]
 for i in fruits:
 print(fruits + "pie")
