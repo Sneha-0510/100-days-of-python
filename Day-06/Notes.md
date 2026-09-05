@@ -28,7 +28,9 @@ def get_user_name():
 #Outside the function
 print("Hello")
 get_user_name() # Calling the function
-This code will result in the following sequence of ```
+This code will result in the following sequence of 
+```
+
 ```
 output:
 
