@@ -52,4 +52,18 @@ Overall, Day 06 gave me a stronger understanding of **iteration, conditions, and
 
 I practiced `for` and `while` loops using different challenges on Reeborg's World.
 
+### Exercise 1
 
+![Reeborg Exercise 1](screenshots/Hurdle_01.png)
+
+### Exercise 2
+
+![Reeborg Exercise 2](screenshots/Hurdle_02.png)
+
+### Exercise 3
+
+![Reeborg Exercise 3](screenshots/Hurdle_03.png)
+
+### Exercise 4
+
+![Reeborg Exercise 4](screenshots/Hurdle_04.png)
