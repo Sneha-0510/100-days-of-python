@@ -8,6 +8,6 @@ For now, I have completed the implementation part of the challenge. I will work 
 
 ### Exercise 4
 
-![Reeborg Exercise 4](screenshots/Maze.png)
+![Reeborg Exercise Maze](screenshots/Maze.png)
 
 Overall, Day 06 was a good step toward improving my **logical thinking, problem-solving skills, and understanding of loops through practical challenges**.
