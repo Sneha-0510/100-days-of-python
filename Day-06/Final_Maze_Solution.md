@@ -6,7 +6,7 @@ As the final challenge for today, I worked on **solving a maze in Reeborg's Worl
 
 For now, I have completed the implementation part of the challenge. I will work on **debugging, optimizing, and understanding the logic more deeply** after completing my basic Python learning, so that I can revisit the problem with a stronger understanding of the concepts involved.
 
-### Exercise 4
+### Exercise Maze
 
 ![Reeborg Exercise Maze](screenshots/Maze.png)
 
